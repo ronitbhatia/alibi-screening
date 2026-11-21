@@ -1,0 +1,8 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Alibi · Analyst case file</title><link rel="icon" href="data:,"><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head>
+<body><header><strong class="wordmark">alibi<span>.</span></strong><span class="divider"></span><span>Screening desk</span><button id="help" aria-label="Keyboard shortcuts">Keys <kbd>?</kbd></button></header>
+<div class="workspace"><aside aria-label="Hit queue"><div class="railhead"><div class="line"><h2>Hit queue</h2><span class="counter" id="total">…</span></div>
+<label for="search" class="sr">Search by name or ID</label><input id="search" type="search" placeholder="Search name or ID">
+<label for="filter" class="sr">Queue filter</label><select id="filter"><option value="">All hits · review first</option><option value="REVIEW">Needs a person</option><option value="SAME_ENTITY">Same entity</option><option value="DIFFERENT_ENTITY">Different entity</option><option value="multiple">Multiple candidates</option><option value="pending">Awaiting analyst action</option></select></div>
+<nav aria-label="Cases" id="queue"></nav></aside><main id="case" tabindex="-1" aria-label="Case file"><p>Loading case files…</p></main></div>
+<dialog id="drawer" aria-labelledby="dialogTitle"><div class="line"><h2 id="dialogTitle"></h2><button id="close">Close <kbd>Esc</kbd></button></div><div id="detail"></div></dialog>
+<div class="sr" role="status" id="announce"></div></body></html>

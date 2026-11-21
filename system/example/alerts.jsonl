@@ -1,0 +1,1 @@
+{"alert_id": "A-DEMO", "email": "mira@example.test", "screened_at": "2026-01-10", "hit_ids": ["H-01", "H-02", "H-03"], "customer": {"name": "Mira Arden", "entity_type": "Individual"}}
