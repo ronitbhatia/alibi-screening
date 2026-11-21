@@ -2,7 +2,7 @@
 
 ALIBI helps a payments analyst decide whether a customer and a watchlist entry describe the same person or company. It follows the customer's records across bank systems, checks the listed entity's identity evidence, and gives each hit a decision with a short explanation and the IDs that support it. An alert closes only when every hit is cleared.
 
-[Download the narrated pitch (2:39, QuickTime)](https://github.com/ronitbhatia/alibi-screening/releases/download/pitch-v3/ALIBI-Pitch-Samantha.mov) · [Read the technical design](system/README.md) · [Inspect the development predictions](output/dev.jsonl)
+[Read the technical design](system/README.md) · [Inspect the development predictions](output/dev.jsonl)
 
 ## Try the analyst demo
 

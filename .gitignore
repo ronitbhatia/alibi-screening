@@ -19,3 +19,7 @@ predictions.jsonl.tmp
 /screening-track.zip
 /POLICY_NOTES.md
 /POLICY.md
+
+# Demo videos are distributed via YouTube.
+*.mp4
+*.mov
