@@ -64,4 +64,4 @@ All three synthetic hits in `system/example` belong to alert `A-DEMO`. Its email
 | H-02 | The listed name, birth year 1990 and UK country agree. Confirm SAME_ENTITY with NAME_DOB_LOCATION_MATCH, citing C-DEMO, H-02 and K-DEMO. |
 | H-03 | The listed name agrees, but the profile supplies no birth date. Refer as REVIEW with INSUFFICIENT_DATA, citing H-03 and K-DEMO. |
 
-The alert remains open with one of three hits cleared. [Download the captioned demo (MP4)](https://github.com/ronitbhatia/alibi-screening/raw/refs/heads/main/system/demo.mp4).
+The alert remains open with one of three hits cleared. [Download the captioned QuickTime movie](https://github.com/ronitbhatia/alibi-screening/releases/download/demo-quicktime-v1/ALIBI-Demo.mov).
